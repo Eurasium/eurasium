@@ -1,7 +1,7 @@
 # EURASIUM Core
 ==========================
 
-![Dogecoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![Dogecoin](https://twitter.com/Eurasium1/photo)
 
 [![Build Status](https://travis-ci.org/dogecoin/dogecoin.svg?branch=1.14-dev)](https://travis-ci.org/dogecoin/dogecoin) [![tip for next commit](https://tip4commit.com/projects/702.svg)](https://tip4commit.com/github/dogecoin/dogecoin)
 
