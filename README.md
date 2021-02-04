@@ -1,4 +1,4 @@
-# Dogecoin Core [DOGE, Ð]
+# EURASIUM Core
 ==========================
 
 ![Dogecoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
